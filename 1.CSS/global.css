@@ -8,7 +8,7 @@
     font-size: 1.25rem;
 }
 .heading-medium {
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 .heading-big {
     font-size: 1.75rem;
@@ -47,4 +47,12 @@
 .btn-block{
     width: 100%;
     text-align: center ;
+}
+.btn-dark{
+    background: #333;
+}
+.btn-dark:hover{
+    color: #3333;
+    background-color: #fff;
+    border: 1px solid #3333;
 }
