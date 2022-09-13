@@ -56,3 +56,18 @@
     background-color: #fff;
     border: 1px solid #3333;
 }
+
+/* Forms */ 
+.form-group{
+    padding: 0.25rem 0;
+}
+.form-group label{
+    display: block;
+}
+.form-control{
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    resize: none;
+    border-radius: 4px;
+}
